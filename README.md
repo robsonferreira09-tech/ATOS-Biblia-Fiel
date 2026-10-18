@@ -4,13 +4,19 @@ Aplicativo Android independente desenvolvido pela **RFBX Tecnologia**, com **Mor
 
 ## Download gratuito — edição de teste
 
-[Baixar ATOS 5.6.1 (46)](https://github.com/robsonferreira09-tech/ATOS-Biblia-Fiel/releases/download/v5.6.1-46-teste/ATOS_Instalacao_5.6.1_v46.zip)
+[Baixar ATOS 5.7.1 (48)](https://github.com/robsonferreira09-tech/ATOS-Biblia-Fiel/releases/download/v5.7.1-48-teste/ATOS_Instalacao_5.7.1_v48.zip)
 
-Android 6.0 ou superior. ZIP: 70,76 MB; APK após extração: 105,07 MB. Reserve espaço adicional para instalar.
+Android 6.0 ou superior. ZIP: 71,71 MB; APK após extração: 96,70 MB. Reserve espaço adicional para instalar. [Instruções da v48](INSTALACAO_v48.md).
 
 Esta é uma **edição de teste em revisão**, não uma versão final. Contém Gênesis próprio em revisão e os 27 livros do Novo Testamento Almeida 1911. Os demais livros do Antigo Testamento não estão disponíveis nesta edição.
 
 Leitura, voz, devocionais e notas pessoais. O Mordomo Fiel organiza receitas, despesas, cartões e compromissos no mesmo aplicativo. Voz e avisos dependem dos serviços e permissões do aparelho. O financeiro usa registros locais, não representa conexão bancária nem confirmação de saldo oficial.
+
+## Novidades da v48
+
+Resumo com pagos e recebidos no mês, filtros por conta e extrato com saldo anterior e fechamento diário. O saldo acumulado considera todo o histórico realizado da conta escolhida. Nenhum valor é ajustado automaticamente.
+
+Os relatórios da entrega registram 78 testes financeiros aprovados, zero erros no Android Lint e 18 verificações do leitor. A instalação física e as novas telas não foram homologadas neste processo de distribuição.
 
 ## Instalar ou atualizar
 
@@ -18,7 +24,7 @@ Leitura, voz, devocionais e notas pessoais. O Mordomo Fiel organiza receitas, de
 2. Se já utiliza o ATOS, faça backup financeiro no aplicativo e preserve suas anotações. O backup financeiro não inclui automaticamente os dados da Bíblia.
 3. Abra o APK e confirme a instalação ou atualização no Android. **Não desinstale nem limpe os dados para atualizar.**
 4. O Android pode solicitar autorização para instalar pela origem escolhida. Se o Android ou Play Protect bloquear o arquivo, procure o suporte; **não desative as proteções do aparelho**.
-5. Confira a versão 5.6.1-revisão (46). O pacote continua com.rfb.verbo, com a assinatura de teste preservada.
+5. Confira a versão 5.7.1-revisão (48). O pacote continua com.rfb.verbo, com a assinatura de teste preservada. O banco financeiro permanece na versão 6, sem mudança de estrutura nesta entrega.
 
 No cadastro inicial, o código de demonstração aparece na própria tela. Não é enviado por SMS e não verifica a titularidade do telefone. Não existe senha padrão nem login empresarial nesta edição.
 
@@ -31,10 +37,12 @@ O APK de revisão mantém sua assinatura de depuração anterior. Esta distribui
 ## Conferência
 
 SHA-256 do ZIP:
-`8E73D5052FFCCD691ACD6929E7499DAD0EACA4811DB8DE4430C6EB7F4ED17452`
+`94A2AF6944921C94423BEF3B1CB870F923EC6D74828D255F1D3E5F6AD0DFF3CF`
 
 SHA-256 do APK:
-`7B0775904805C065DA898786412EDA39E6F34B2CC7E393ECBFA9EFB69BE5F411`
+`36E8967E9F8800929376B2A63132EAB763052416B0EE1A4B33298EE336999B8C`
+
+A [v46 permanece disponível no histórico](https://github.com/robsonferreira09-tech/ATOS-Biblia-Fiel/releases/tag/v5.6.1-46-teste). Não use uma versão antiga para substituir uma instalação nova sem orientação técnica.
 
 Suporte RFBX Tecnologia: [(73) 98825-1299](https://wa.me/5573988251299).
 
